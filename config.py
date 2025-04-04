@@ -1,0 +1,10 @@
+S1 = "session1.session"
+S2 = "session2.session"
+S3 = "session3.session"
+S4 = "session4.session"
+S5 = "session5.session"
+S6 = "session6.session"
+S7 = "session7.session"
+S8 = "session8.session"
+S9 = "session9.session"
+S10 = "session10.session" # Add as many as you need
